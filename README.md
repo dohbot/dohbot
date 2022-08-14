@@ -1,9 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&animation=fadeIn&text=It%E2%80%99s%20not%20what%20I%20am%2C%20it%E2%80%99s%20who%20I%20am&fontSize=30)
 
 <!--
 **dohbot/dohbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
